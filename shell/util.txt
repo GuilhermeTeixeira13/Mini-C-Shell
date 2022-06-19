@@ -1,0 +1,1 @@
+cd /home/guilherme/Documents/GitHub/UC_SO/FP05/testeDir/
